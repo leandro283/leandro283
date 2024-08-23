@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Studying ads<br>Objective Developer: Front Ed</p>
+<p align="left"><br>Objective Developer: Front Ed</p>
 
 ###
 
